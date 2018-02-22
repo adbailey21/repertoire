@@ -1,0 +1,1 @@
+<a href="logout.php">Logout</a>&nbsp;|&nbsp;<a href="event.php">Event</a>&nbsp;|&nbsp;<a href="person.php">Person</a>&nbsp;|&nbsp;<a href="index.php">Library</a>&nbsp;&nbsp;[<a href="admin/admin.php">Admin</a>]
