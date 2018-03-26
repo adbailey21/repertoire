@@ -6,10 +6,15 @@ $_CONFIGS['default_band_id'] = '1';
 $_CONFIGS['site_title'] = 'Rhythm Red Devils';
 
 
-$servername = "db722159157.db.1and1.com";
+/*$servername = "db722159157.db.1and1.com";
 $username = "dbo722159157";
 $password = "playlist@123";
-$db = "db722159157";
+$db = "db722159157";*/
+
+$servername = "localhost";
+$username = "root";
+$password = "root";
+$db = "rep";
 
 $con=mysqli_connect($servername,$username,$password,$db);
 
